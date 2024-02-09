@@ -32,7 +32,7 @@ class WeatherFetcher:
             print("Failed to fetch weather data.")
 
 if __name__ == "__main__":
-    api_key = "6012ded6d7fc3dbeaf9d4c38690672ca"
+    api_key = "xxxxxxxxxxxxxxxxxxxxxxxx"
 
     cities_to_check = ["Mumbai", "Mount Abu", "Noida" , "madison"]
 
